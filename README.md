@@ -1,7 +1,7 @@
 ## Auto-Sudoku-Solver
 
 ### About:
-4x4 Sudoku solver using a recursive backtracking algorithm
+4x4 Sudoku solver using a recursive backtracking algorithm. This was my first project when learning to use Python and understanding incremental solutions.
 
 ### Solved Sudoku
 
