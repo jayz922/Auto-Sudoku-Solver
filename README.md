@@ -1,7 +1,7 @@
 ## Auto-Sudoku-Solver
 
 ### About:
-4x4 Sudoku solver using a backtracking algorithm
+4x4 Sudoku solver using a recursive backtracking algorithm
 
 ### Solved Sudoku
 
